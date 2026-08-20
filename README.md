@@ -25,19 +25,16 @@ TS_Forecast/
 │   └── DATA_DICTIONARY.md
 ├── notebooks/
 │   ├── Time_Series_Analysis.ipynb
-│   └── TS_Forecast_rewritten.ipynb
+│   
 ├── src/
 │   ├── __init__.py
 │   ├── forecast_models.py
 │   └── streamlit_app.py
 ├── models/
-├── outputs/
 ├── .github/workflows/checks.yml
 ├── requirements.txt
 ├── run_app.py
 ├── PROJECT_STATUS.md
-├── CONTRIBUTING.md
-├── LICENSE
 ├── .gitignore
 └── README.md
 ```
